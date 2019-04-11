@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">FragmentPreference</string>
+
+    <string name="In_line_preferences">In-line preferences</string>
+    <string name="CheckBoxPreference_title">CheckBoxPreference</string>
+    <string name="CheckBoxPreference_summary">This is a checkbox</string>
+
+    <string name="Dialog_based_preferences">Dialog-based preferences</string>
+    <string name="EditTextPreference_title">EditTextPreference</string>
+    <string name="EditTextPreference_summary">An example that uses an edit text dialog</string>
+    <string name="EditTextPreference_dialog_title">Enter your favorite animal</string>
+
+    <string name="ListPreference_title">ListPreference</string>
+    <string name="ListPreference_summary">An example that uses a list dialog</string>
+    <string name="ListPreference_dialog_title">Choose one</string>
+
+    <string name="Launch_preferences">Launch preferences</string>
+    <string name="Screen_preference_title">Screen preference</string>
+    <string name="Screen_preference_summary">Shows another screen of preferences</string>
+    <string name="Screen_checkbox_summary">Preference that is on the next screen but same hierarchy</string>
+    <string name="Screen_checkbox_title">Toggle preference</string>
+
+    <string name="Intent_preference_title">Intent preference</string>
+    <string name="Intent_preference_summary">Launches an Activity from an Intent</string>
+
+    <string name="Preference_attributes">Preference attributes</string>
+    <string name="Parent_checkbox_preference_title">Parent checkbox preference</string>
+    <string name="Parent_checkbox_preference_summary">This is visually a parent</string>
+    <string name="Child_checkbox_preference_title">Child checkbox preference</string>
+    <string name="Child_checkbox_preference_summary">This is visually a child</string>
+
+</resources>
